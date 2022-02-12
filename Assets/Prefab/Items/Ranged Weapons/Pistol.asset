@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0d81a071534a5f86b0872b841474bd, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  ColliderType: 2
+  ContainerPrefab:
+    m_AssetGUID: 
+    m_SubObjectName: 
+  Icon: {fileID: 21300000, guid: b3fcf12a19367d84e923692490e77240, type: 3}
+  UseCustomContainer: 0
+  AmmoType: {fileID: 11400000, guid: c155cc6f006e20243bd7fa0941fc9bbf, type: 2}
+  AnimationData:
+    HoldingAnimation: {fileID: 7400000, guid: 46bbb58e465b4b74ebc61780216f4341, type: 2}
+    ReloadAnimation: {fileID: 7400000, guid: 6a1d616345ecc3e40bc1b16edc9f2835, type: 2}
+    FireAnimation: {fileID: 7400000, guid: b5dc537aaa5e91f439541c42283244cd, type: 2}
+  Data:
+    DamageMultiply: 1
+    RateOfFire: 3
+    ClipCapacity: 8
+    AmmoCapacity: 128
+    ReloadAmount: 8
+    ProjectileCount: 1
+    ScreenShake: 0.4
+    Accuracy: 1
+    AccuracyDegrade: 16
+    AccuracyAttackTime: 0.05
+    AccuracyRegainSpeed: 1.6
+    Automatic:
+      _value: 0
+  FireSound: {fileID: 11400000, guid: 928d53dcffaa9414588db9fbbb11a6b8, type: 2}
+  MuzzleFlash:
+    m_AssetGUID: 274182e09ade77044b43f83e313f7851
+    m_SubObjectName: 
+  OutOfAmmoSound: {fileID: 11400000, guid: 7958ab4d5f06b4847a06d4b47cedf11d, type: 2}
+  Template:
+    m_AssetGUID: e03d6f5336b83c04ebf487ea96fd98d1
+    m_SubObjectName: 

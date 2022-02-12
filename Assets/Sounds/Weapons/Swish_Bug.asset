@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Swish_Bug
+  m_EditorClassIdentifier: 
+  volume: 0.3
+  randomVolumeRange: {x: 0.9, y: 1.1}
+  randomPitchRange: {x: 0.9, y: 1.1}
+  audoClips:
+  - clip: {fileID: 8300000, guid: f8acba0445ee1fe42bac3c576c85528b, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: a6b64c5ddce3f1e4e9da069a602c3f2b, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: bda99f59e27a43945ae5ac55cc152fe6, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 328dc71430f7de1468301f13f9dd505d, type: 3}
+    volume: 1
+    weight: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba7f43385c144a4890478aece8ce622, type: 3}
+  m_Name: Frag Grenade
+  m_EditorClassIdentifier: 
+  ColliderType: 2
+  ContainerPrefab:
+    m_AssetGUID: 
+    m_SubObjectName: 
+  Icon: {fileID: 21300000, guid: 535253e32596774408b2dea92e38ebd9, type: 3}
+  UseCustomContainer: 0
+  Template:
+    m_AssetGUID: 5e41c2006f2e98a41aa8d6d2fedf1aeb
+    m_SubObjectName: 

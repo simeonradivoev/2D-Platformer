@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Concrete Steps
+  m_EditorClassIdentifier: 
+  volume: 0.03
+  randomVolumeRange: {x: 0.8, y: 1.1}
+  randomPitchRange: {x: 0.9, y: 1.1}
+  audoClips:
+  - clip: {fileID: 8300000, guid: a0f4239457982f443be071af63113338, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: c3b95d313f77a5941a8964c1cfc943ec, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 090de31c9323f1e4eb48c5232ff6103b, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 5d462f76d3528504f8245a1b6964bb5b, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 88dc828fefdc33a419bc4cef98f24e94, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: cb9d40648d1219741a0678283515022b, type: 3}
+    volume: 1
+    weight: 1

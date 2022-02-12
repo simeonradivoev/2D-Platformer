@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0d81a071534a5f86b0872b841474bd, type: 3}
+  m_Name: Ak 47 Shoddy
+  m_EditorClassIdentifier: 
+  ColliderType: 2
+  ContainerPrefab:
+    m_AssetGUID: 
+    m_SubObjectName: 
+  Icon: {fileID: 21300000, guid: ecd55f49bee3f2644a3f502d0c2ef777, type: 3}
+  UseCustomContainer: 0
+  AmmoType: {fileID: 11400000, guid: be32b474115adf44b8d365642021510c, type: 2}
+  AnimationData:
+    HoldingAnimation: {fileID: 7400000, guid: 34d6df6f6e2129b48a857854d89f9dfb, type: 2}
+    ReloadAnimation: {fileID: 7400000, guid: cff76bec1997e074da7adea5255294b3, type: 2}
+    FireAnimation: {fileID: 7400000, guid: 4c883260b6c855241b0178d8de731f68, type: 2}
+  Data:
+    DamageMultiply: 0.1
+    RateOfFire: 7
+    ClipCapacity: 32
+    AmmoCapacity: 680
+    ReloadAmount: 32
+    ProjectileCount: 1
+    ScreenShake: 0.6
+    Accuracy: 0.9
+    AccuracyDegrade: 4
+    AccuracyAttackTime: 0.15
+    AccuracyRegainSpeed: 1
+    Automatic:
+      _value: 1
+  FireSound: {fileID: 11400000, guid: d242af85af069754d9a143b85e591fd9, type: 2}
+  MuzzleFlash:
+    m_AssetGUID: 274182e09ade77044b43f83e313f7851
+    m_SubObjectName: 
+  OutOfAmmoSound: {fileID: 11400000, guid: 7958ab4d5f06b4847a06d4b47cedf11d, type: 2}
+  Template:
+    m_AssetGUID: 329c7b613ed4d3a42898ed57631a0faa
+    m_SubObjectName: 

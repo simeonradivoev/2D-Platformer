@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Bug Explosion
+  m_EditorClassIdentifier: 
+  volume: 0.2
+  randomVolumeRange: {x: 1, y: 1}
+  randomPitchRange: {x: 1, y: 1}
+  audoClips:
+  - clip: {fileID: 8300000, guid: 9b8c7e351271e8a41825cb0f4cee029f, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 6c6952930b93b944fae85292320959d2, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 39f80469bca48fd49be68b6d37f6ccbb, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: fdc579a548002c043988305203d17dae, type: 3}
+    volume: 1
+    weight: 1

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Water Steps
+  m_EditorClassIdentifier: 
+  volume: 0.03
+  randomVolumeRange: {x: 0.8, y: 1.1}
+  randomPitchRange: {x: 0.9, y: 1.1}
+  audoClips:
+  - clip: {fileID: 8300000, guid: a047cc58af39b164098383b0322802e0, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 6c5d79a8346426c49a8a9806dbc9a5e6, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 03e31f73d6f688841bad575b34eff2d8, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 93f1a93759708164fa78a2532f3a43fd, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 030653e028cdc5d48b9fa51e6b660df7, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 28df80ffcc0b29b4eb3d83de3b7a36d7, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: d577d291c9c634e47a2a7ed5e72513ee, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: df76bdc1457e92748a294842c4f4d809, type: 3}
+    volume: 1
+    weight: 1

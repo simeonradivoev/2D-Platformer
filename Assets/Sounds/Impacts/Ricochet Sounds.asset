@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Ricochet Sounds
+  m_EditorClassIdentifier: 
+  volume: 1
+  randomVolumeRange: {x: 0.2, y: 0.4}
+  randomPitchRange: {x: 0.9, y: 1.1}
+  audoClips:
+  - clip: {fileID: 8300000, guid: 834f8092383f7404c87e41158f7f8f38, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: f8a3fc5f5e584d14485f7341dfbbb4ce, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: c47b0a81b50e9c74cbff26c0379f3e63, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 22812a3a5100042419eb12aac01248f1, type: 3}
+    volume: 1
+    weight: 1

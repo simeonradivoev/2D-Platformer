@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Shell Sounds
+  m_EditorClassIdentifier: 
+  volume: 0.4
+  randomVolumeRange: {x: 0.8, y: 1.2}
+  randomPitchRange: {x: 0.8, y: 1.2}
+  audoClips:
+  - clip: {fileID: 8300000, guid: f969b51b8c3a0ae469b27c501afca92c, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 9241ccb8ce87cab4593688eddb980911, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: e1d226443646ce54ebaf07e5093418df, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 00f99903a1a6d1249b229c2b7a366be3, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: e07abb0adbe2d2d48b817e6b9407c524, type: 3}
+    volume: 1
+    weight: 1

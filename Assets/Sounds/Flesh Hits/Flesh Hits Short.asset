@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Flesh Hits Short
+  m_EditorClassIdentifier: 
+  volume: 1
+  randomVolumeRange: {x: 0.9, y: 1.1}
+  randomPitchRange: {x: 0.8, y: 1.2}
+  audoClips:
+  - clip: {fileID: 8300000, guid: b83bbbd22cc64a84eaa6b68754953a9a, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: c4ca7177e701b834abb85558a30ce6e5, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 8e1c02bc2b0ac5049a8caa94872e4257, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: a253b27d2150d0c46b5860b0fad3b372, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 216348cef16fa804db5d534e38530057, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: adf58f4e6aed8f445ba2937ed537440a, type: 3}
+    volume: 1
+    weight: 1

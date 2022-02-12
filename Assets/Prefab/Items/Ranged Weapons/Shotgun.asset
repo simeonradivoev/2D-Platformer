@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0d81a071534a5f86b0872b841474bd, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  ColliderType: 2
+  ContainerPrefab:
+    m_AssetGUID: 
+    m_SubObjectName: 
+  Icon: {fileID: 21300000, guid: 82df98cd98c0b58448c40b310de516f9, type: 3}
+  UseCustomContainer: 0
+  AmmoType: {fileID: 11400000, guid: d16a2e7af180ee347ba42369e147075f, type: 2}
+  AnimationData:
+    HoldingAnimation: {fileID: 7400000, guid: 34d6df6f6e2129b48a857854d89f9dfb, type: 2}
+    ReloadAnimation: {fileID: 7400000, guid: cff76bec1997e074da7adea5255294b3, type: 2}
+    FireAnimation: {fileID: 7400000, guid: 4c883260b6c855241b0178d8de731f68, type: 2}
+  Data:
+    DamageMultiply: 1
+    RateOfFire: 2
+    ClipCapacity: 8
+    AmmoCapacity: 86
+    ReloadAmount: 1
+    ProjectileCount: 6
+    ScreenShake: 1.8
+    Accuracy: 0.3
+    AccuracyDegrade: 12
+    AccuracyAttackTime: 0.4
+    AccuracyRegainSpeed: 1
+    Automatic:
+      _value: 0
+  FireSound: {fileID: 11400000, guid: fb3512dae36c8d3459e3747526c722b7, type: 2}
+  MuzzleFlash:
+    m_AssetGUID: 274182e09ade77044b43f83e313f7851
+    m_SubObjectName: 
+  OutOfAmmoSound: {fileID: 11400000, guid: 7958ab4d5f06b4847a06d4b47cedf11d, type: 2}
+  Template:
+    m_AssetGUID: d7376e76e488e224cab014abef1c974d
+    m_SubObjectName: 

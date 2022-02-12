@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d79855cce88e29e42a08e20bda5a3079
+  m_SerializeEntries:
+  - m_GUID: 0b6a676e8c896894cb4c33662d26bd0f
+    m_Address: ak_47_shoddy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 274182e09ade77044b43f83e313f7851
+    m_Address: ak_47_muzzle_particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Particles
+  - m_GUID: 329c7b613ed4d3a42898ed57631a0faa
+    m_Address: ak_47_template
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Template
+  - m_GUID: 36b94ed20a0f6fd48afd7861911ba155
+    m_Address: shotgun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e41c2006f2e98a41aa8d6d2fedf1aeb
+    m_Address: frag_grenade_template
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Template
+  - m_GUID: 6f64eabcee4c59b40ada960bcaa53582
+    m_Address: pistol_glock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70b0caf86901bc1429b5cfef7036414a
+    m_Address: robot_template
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Template
+  - m_GUID: 7fc5c9adc8e31f64e97e5934855d6b79
+    m_Address: frag_grenade
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85af38c068286b448a01396e3db41396
+    m_Address: ammo_box
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 935022786c1888c4cbbcb95cfe5c00d9
+    m_Address: ak_47
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94076c324b896cc48a177e1a8d895203
+    m_Address: robot_prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7e12435028366a41bad028093f1c1e8
+    m_Address: bug_prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b973a5149177da64c8452bde7ea9beea
+    m_Address: rifle_ammo_weak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be32b474115adf44b8d365642021510c
+    m_Address: rifle_ammo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c155cc6f006e20243bd7fa0941fc9bbf
+    m_Address: pistol_ammo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cadbddbdd114d004d83d5bd783ef86b8
+    m_Address: shotgun_shell_particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Particles
+  - m_GUID: cefbb2527f83aaa4ca1020faa2c36114
+    m_Address: rifle_shell_particles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Particles
+  - m_GUID: d7376e76e488e224cab014abef1c974d
+    m_Address: shotgun_template
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Template
+  - m_GUID: dcf3ef52bb06ba64fa9455f93ca1ba92
+    m_Address: ammo_box_container
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e03d6f5336b83c04ebf487ea96fd98d1
+    m_Address: pistol_glock_template
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Template
+  - m_GUID: e8ca32f711dc02b459a63b987af1e4d6
+    m_Address: health_kit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efd2323a3ef11f54586ee8e40e8080d1
+    m_Address: bug_template
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Template
+  - m_GUID: 039f75a3f49638d418fa41b895e09bd8
+    m_Address: bug_death_particles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5f79d8d51f1eff4b8d88149bc7aa56e
+    m_Address: robot_death_particles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4a4bd0a3a92c53f469b9edf665a1a4db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b636d4d48d25036499cc45382ffef5f9, type: 2}
+    - {fileID: 11400000, guid: a649e5f1f5a6f8d49886cec51ab1d6f1, type: 2}

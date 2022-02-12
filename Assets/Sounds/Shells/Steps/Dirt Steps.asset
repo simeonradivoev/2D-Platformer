@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa5acded53affd4aa559c6aa5c2fdda, type: 3}
+  m_Name: Dirt Steps
+  m_EditorClassIdentifier: 
+  volume: 0.2
+  randomVolumeRange: {x: 0.8, y: 1.1}
+  randomPitchRange: {x: 0.9, y: 1.1}
+  audoClips:
+  - clip: {fileID: 8300000, guid: 565047766f627d24d93064f6fd37f97e, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: c3537dd6462a1a54fbc162158f7518e9, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 3878eab8ae758a04b802ee4ef8087cdd, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 906762a725b9e1a43bbcc7bbfcc3cfb7, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 23247beeb073a4744b2efdab9559cbb1, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: c10b6df18df901b4aa9c0f769c26b53a, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: ea9a2dd29c9dd394f858f668d4c862b5, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 5e5f8f67befc13b4195ce97e0beefdbb, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 0bc9832302ae7264d816b8cbb46b305e, type: 3}
+    volume: 1
+    weight: 1
+  - clip: {fileID: 8300000, guid: 3e1b2e0dfc3691c46a31ba93a90094be, type: 3}
+    volume: 1
+    weight: 1
