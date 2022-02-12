@@ -22,6 +22,8 @@ F - Vault
 Given that this was more of a learning experience and a personal project there isn't much of a gameplay to it. I wanted to make the movement and the overall feel more slow pace and heavy. But looking at it now this might limit the gameplay opportunities since it is in 2D.
 
 # Notes
+This repository used [Git LFS](https://git-lfs.github.com/)
+
 This was more of a educational project testing all the latest unity features at the time. This means there isn't much documentation in code, but I did use pretty verbose and self explanatory naming. This combined with the ECS structure should help with readability.
 
 I Also stripped or replaced lots of the assets used that were from the unity asset store with open source ones. There are some left over that are no longer on the asset store so I decided to alter them and leave them in (like robots used from Anima2D)
